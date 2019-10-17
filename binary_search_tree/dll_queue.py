@@ -25,13 +25,13 @@ class Queue:
         return self.size
 
 
-test = Queue()
+# test = Queue()
 
-test.enqueue(1)
-test.enqueue(2)
-test.enqueue(3)
+# test.enqueue(1)
+# test.enqueue(2)
+# test.enqueue(3)
 
 
-print(test.len())
-print(test.dequeue())
-print(test.len())
+# print(test.len())
+# print(test.dequeue())
+# print(test.len())
